@@ -1,0 +1,6 @@
+SELECT test FROM client;
+insert into test values ( 123, 456);
+SELECT tous from avion;
+update test set rojla=2;
+SELECT rojla  FROM client where rojla=5;
+delete from test where id = 1
